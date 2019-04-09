@@ -36,7 +36,7 @@
     - semantics of the fields
   - The protocol of this layer is **distributed over multiple end systems**, which can be used to **exchange packets of information** between different end system.
 - <u>Transport Layer</u>
-  - provides a reliable byte stream between two nodes on a network
+  - It transports application-layer messages(segments) between application endpoints
   - congestion control (week 5)
   - flow control (week 5)
   - two main protocols
